@@ -1,3 +1,7 @@
+v20.10.1
+- Translations updates from Weblate
+	- ja_jp, pl_pl
+
 v20.10.0
 - Add settings options to add M3U group name to directory for media
 - Add expert option to force the entire playlist to be Media. Useful now that multiple instances are supported
